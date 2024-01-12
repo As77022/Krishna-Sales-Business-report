@@ -5,7 +5,7 @@ The Krishna store entrusted us with the task of crafting a dashboard that could 
 Here's the roadmap we followed, each step a building block toward our goal:
 
 Data connection from SQL database
-Data Transformation - In power querry with DAX
+Data Transformation - In power query with DAX
 Data Loading 
 Data Implementation
 Report Creation and designing 
